@@ -74,7 +74,7 @@ int main(){
         printf("Your total score is %d",score);
     }
     else{
-        printf("Your total score is %d",score);
+        printf("Your total score is %d\n",score);
         printf("Better luck next time.");
     }
 }
